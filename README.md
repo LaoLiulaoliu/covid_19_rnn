@@ -11,4 +11,4 @@ Found:
 
  1. GDP is relate to morbidity and death.
  2. The rank of data matrix r < n, have countless solutions. Linear Function can not converge, can not be used to forecast.
- 3. The data lack Epidemiological(流行病学) parameters. 传染概率，传染系数，潜伏率，退出率。
+ 3. The data lack Epidemiological(流行病学) parameters. Infection probability(传染概率), Infection coefficient(传染系数), latent rate(潜伏率), exit rate(退出率).
